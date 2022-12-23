@@ -1,0 +1,18 @@
+.wrap-films {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+.cart-film {
+    flex: 0 0 162px;
+}
+.item-film {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+img{
+    width: 100%;
+}
